@@ -1,6 +1,6 @@
 <?php 
 	// functions.php
-	require("../../config.php");
+	require("/home/gerltoom/config.php");
 	
 	// et saab kasutada $_SESSION muutujaid
 	// kõigis failides mis on selle failiga seotud
